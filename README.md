@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack python develper</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c9a7c8cbe59f91588f2838ddb3fee4349c5a34752e7f8210a2c8135969fb4c39/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353634302f66696c652f6f726967696e616c2d61326238326162383737396563653463343964663336373266373735336363622e676966">
 
-- 📫 How to reach me **skashivaidya2000@gmail.com** 
+- 📫 How to reach me **vaidyasakshi489@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
