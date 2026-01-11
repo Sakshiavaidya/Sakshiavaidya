@@ -69,7 +69,7 @@ src="https://camo.githubusercontent.com/c9a7c8cbe59f91588f2838ddb3fee4349c5a3475
 ### 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Sakshiavaidya&show_icons=true&locale=en&layout=compact"
     alt="Top Languages" />
 </p>
 
